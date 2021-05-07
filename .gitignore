@@ -105,3 +105,6 @@ dist
 
 #Personal
 .prettierrc.json
+
+#folders
+/temporary images
